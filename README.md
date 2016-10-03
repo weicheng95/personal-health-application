@@ -1,6 +1,6 @@
 # personal-health-application
 
-劉偉承 0324094 資管3B
+劉偉承 0324094 資管3B （組長）
 
 陳彥嘉 0324062 資管3B
 
