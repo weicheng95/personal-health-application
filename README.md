@@ -45,6 +45,11 @@
 ![](flowchat.png)
 
 ---
+### 循序圖：
+![](sequence_diagram.png)
+
+---
+
 ### 登入強韌圖：
 ![](login.png)
 ### 新增分析強韌圖：
