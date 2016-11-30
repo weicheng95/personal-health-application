@@ -42,12 +42,12 @@
 
 ---     
 ## 登入強韌圖：
-![](login.svg)
+![](login.png)
 ## 新增分析強韌圖：
 
-![](insert.svg)
+![](insert.png)
 ## 刪除強韌圖：
-![](delete.svg)
+![](delete.png)
 ## 修改強韌圖：
 ![](edit.png)
 
